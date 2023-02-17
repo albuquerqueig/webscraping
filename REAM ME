@@ -1,0 +1,6 @@
+#web scraping da própria página do github
+usando as bibliotecas requests e bs4.
+
+1 - Run no arquivo
+2 - Input o nome de usuário no github (seu @)
+3 - Navegar no link gerado, que traz a foto do github
